@@ -1,1 +1,0 @@
-# sb-template-manager
